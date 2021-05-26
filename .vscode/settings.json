@@ -8,5 +8,8 @@
     },
     "[javascriptreact]": {
         "editor.formatOnSave": true
-    }
+    },
+    "cSpell.words": [
+        "signin"
+    ]
 }
